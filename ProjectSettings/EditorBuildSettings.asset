@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/AR Planets.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/AR Plants Placements.unity
+    guid: f0bb8efa34fc648c78520974f8b840ef
+  - enabled: 0
+    path: Assets/Scenes/AR Furnitures Placements.unity
+    guid: d381ccac1389a4582a9349365332d4e3
+  - enabled: 0
+    path: Assets/Scenes/AR JetEngine.unity
+    guid: bdf7f665162e64da9bcad434afda21e2
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6b002c83866b44bf19ff590ef699e8d8, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b758c64a5d4c84377889ee0c1305f44f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 641d747e9f98a4b66ba829833b28c4e4, type: 2}
+  m_UseUCBPForAssetBundles: 0
